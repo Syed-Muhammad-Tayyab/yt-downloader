@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" role="img" aria-label="Media Downloader UI preview (light theme) — illustrative mockup">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6D5DFC"/><stop offset="1" stop-color="#22D3B8"/></linearGradient>
+<radialGradient id="a1" cx="15%" cy="5%" r="55%"><stop offset="0" stop-color="#6D5DFC" stop-opacity="0.18"/><stop offset="1" stop-color="#6D5DFC" stop-opacity="0"/></radialGradient>
+<radialGradient id="a2" cx="92%" cy="10%" r="50%"><stop offset="0" stop-color="#22D3B8" stop-opacity="0.16"/><stop offset="1" stop-color="#22D3B8" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="900" height="600" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="900" height="600" fill="#FFFFFF"/><rect width="900" height="600" fill="url(#a1)"/><rect width="900" height="600" fill="url(#a2)"/>
+<rect x="195" y="24" width="30" height="30" rx="9" fill="url(#g)"/>
+<path d="M210 32v12m0 0-4-4m4 4 4-4" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="234" y="46" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="17" font-weight="800" fill="#0F172A">Media<tspan fill="url(#g)">Downloader</tspan></text>
+<circle cx="705" cy="39" r="15" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<text x="450" y="104" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="3" fill="#22D3B8">YOUTUBE · INSTAGRAM</text>
+<text x="450" y="148" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="38" font-weight="800" fill="#0F172A">Download YouTube &amp;</text>
+<text x="450" y="192" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="38" font-weight="800" fill="#0F172A">Instagram Videos</text>
+<text x="450" y="222" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#64748B">Paste your link below to get started.</text>
+<rect x="195" y="246" width="510" height="64" rx="18" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="207" y="258" width="360" height="40" rx="12" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="222" y="283" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#64748B">https://youtube.com/watch?v=…</text>
+<rect x="577" y="258" width="64" height="40" rx="12" fill="none" stroke="#E2E8F0"/>
+<text x="609" y="283" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#0F172A">Paste</text>
+<rect x="649" y="258" width="44" height="40" rx="12" fill="url(#g)"/>
+<path d="M663 278h16m0 0-5-5m5 5-5 5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="195" y="330" width="510" height="150" rx="18" fill="#F8FAFC" stroke="#E2E8F0"/>
+<rect x="211" y="346" width="160" height="90" rx="10" fill="#E2E8F0"/>
+<path d="M277 377l30 15-30 15z" fill="#64748B"/>
+<text x="387" y="362" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="14" font-weight="700" fill="#0F172A">Video title appears here</text>
+<text x="387" y="384" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#64748B">YouTube · 4:32</text>
+<rect x="387" y="400" width="52" height="26" rx="13" fill="url(#g)"/><text x="413" y="417" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">MP4</text>
+<rect x="447" y="400" width="52" height="26" rx="13" fill="none" stroke="#E2E8F0"/><text x="473" y="417" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="11" font-weight="700" fill="#64748B">MP3</text>
+<g font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">
+<rect x="211" y="446" width="104" height="24" rx="8" fill="none" stroke="#E2E8F0"/><text x="263" y="462" fill="#0F172A">360p</text>
+<rect x="323" y="446" width="104" height="24" rx="8" fill="none" stroke="#E2E8F0"/><text x="375" y="462" fill="#0F172A">480p</text>
+<rect x="435" y="446" width="104" height="24" rx="8" fill="none" stroke="#6D5DFC" stroke-width="2"/><text x="487" y="462" fill="#6D5DFC">720p</text>
+<rect x="547" y="446" width="104" height="24" rx="8" fill="none" stroke="#E2E8F0"/><text x="599" y="462" fill="#0F172A">1080p</text>
+</g>
+<rect x="195" y="494" width="510" height="44" rx="14" fill="url(#g)"/>
+<text x="450" y="522" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Download MP4 · 720p</text>
+<text x="450" y="574" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#64748B">illustrative mockup · scan the QR to support the project</text>
+</g>
+</svg>

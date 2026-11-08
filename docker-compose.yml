@@ -1,0 +1,9 @@
+services:
+  media-downloader:
+    build: .
+    container_name: media-downloader
+    ports:
+      - "3000:3000"
+    environment:
+      PORT: 3000
+    restart: unless-stopped

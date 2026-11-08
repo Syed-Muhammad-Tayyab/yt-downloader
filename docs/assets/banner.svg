@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Media Downloader — Developed by Syed Muhammad Tayyab">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6D5DFC"/><stop offset="1" stop-color="#22D3B8"/></linearGradient>
+<radialGradient id="a1" cx="15%" cy="10%" r="60%"><stop offset="0" stop-color="#6D5DFC" stop-opacity=".45"/><stop offset="1" stop-color="#6D5DFC" stop-opacity="0"/></radialGradient>
+<radialGradient id="a2" cx="92%" cy="20%" r="55%"><stop offset="0" stop-color="#22D3B8" stop-opacity=".38"/><stop offset="1" stop-color="#22D3B8" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="1200" height="320" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="320" fill="#0B0F19"/>
+<rect width="1200" height="320" fill="url(#a1)"/>
+<rect width="1200" height="320" fill="url(#a2)"/>
+<g stroke="#232A3D" stroke-width="1" opacity=".6">
+<path d="M0 80H1200M0 160H1200M0 240H1200"/><path d="M200 0V320M400 0V320M600 0V320M800 0V320M1000 0V320"/>
+</g>
+<rect x="-300" y="0" width="300" height="320" fill="url(#g)" opacity=".10">
+<animate attributeName="x" from="-300" to="1200" dur="6s" repeatCount="indefinite"/>
+</rect>
+<g transform="translate(150 160)">
+<circle r="74" fill="none" stroke="url(#g)" stroke-width="2" opacity=".5"><animate attributeName="r" values="70;96;70" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;0;.6" dur="3s" repeatCount="indefinite"/></circle>
+<rect x="-56" y="-56" width="112" height="112" rx="30" fill="url(#g)"/>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 -3;0 5;0 -3" dur="2.4s" repeatCount="indefinite"/>
+<path d="M0 -26V12M0 12L-18 -6M0 12L18 -6" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M-26 28V32A8 8 0 0 0 -18 40H18A8 8 0 0 0 26 32V28" stroke="#fff" stroke-width="8" stroke-linecap="round" fill="none"/>
+</g>
+</g>
+<text x="270" y="150" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="76" font-weight="900" fill="#fff" letter-spacing="-2">Media<tspan fill="url(#g)">Downloader</tspan></text>
+<text x="274" y="196" font-family="'JetBrains Mono',Consolas,monospace" font-size="22" fill="#9AA4BF">YouTube · Instagram → MP4 &amp; MP3 · powered by yt-dlp + ffmpeg</text>
+<rect x="274" y="222" width="430" height="42" rx="21" fill="none" stroke="url(#g)" stroke-width="2"/>
+<text x="489" y="250" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="20" font-weight="700" fill="#22D3B8">Developed by Syed Muhammad Tayyab</text>
+<g fill="#6D5DFC" opacity=".8"><circle cx="1010" cy="60" r="4"><animate attributeName="cy" values="60;40;60" dur="3s" repeatCount="indefinite"/></circle><circle cx="1090" cy="120" r="3" fill="#22D3B8"><animate attributeName="cy" values="120;96;120" dur="4s" repeatCount="indefinite"/></circle><circle cx="1130" cy="230" r="5"><animate attributeName="cy" values="230;250;230" dur="3.5s" repeatCount="indefinite"/></circle></g>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "name": "media-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Media Downloader — analyze and download YouTube & Instagram media via yt-dlp",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
